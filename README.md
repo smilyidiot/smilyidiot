@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React-JS
 - 💞️ I would love to collaborate and work on any project
 - 👀 Currently I’m looking for MERN Stack Devoloper roles 
-- 📫 Well you can ping me on LinkedIn - www.linkedin.com/in/r-vinayaka/
+- 📫 You can ping me on LinkedIn - www.linkedin.com/in/r-vinayaka/
 
 Keep Smiling 💙🐾
 
