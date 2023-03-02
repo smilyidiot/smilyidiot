@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Vinayak
-- 🛠️ Well I'm able to work in HTML, CSS, Python, JS, Node-JS, React-JS
-- 🌱 I’m currently learning React-JS
+- 🛠️ HTML, CSS, Python, JS, Node-JS, React-JS
 - 💞️ I would love to collaborate and work on any project
-- 👀 Currently I’m looking for MERN Stack Devoloper roles 
 - 📫 You can ping me on LinkedIn - www.linkedin.com/in/r-vinayaka/
 
 Keep Smiling 💙🐾
